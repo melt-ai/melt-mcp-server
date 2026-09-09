@@ -3,7 +3,7 @@
   "name": "io.github.omer907/melt-mcp-server",
   "description": "Melt: value-leak discovery and lead capture for Claude, Cursor, and MCP-compatible agents.",
   "repository": {
-    "url": "https://github.com/omer907/melt-mcp-server",
+    "url": "https://github.com/melt-ai/melt-mcp-server",
     "source": "github"
   },
   "version": "0.1.5",
